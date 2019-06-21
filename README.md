@@ -10,15 +10,15 @@ All this leaves the technology new-comer wildly unprepared or the least blissful
 
 If your foolish or bored enough to go any further, what will you find? 
 
-Basics of C Socket programming 
-C Socket program code w/ Inline comments on how to write a Socket program in C
-Basic fuzzer development in Python 
-Basic of reverse engineering pre-compiled Binaries found online with NSA GHIDRA
-Basics of using GBD and EDB debuggers 
-Intro material on x86 Assembly and Memory 
-Crashing the Stack (Buffer Overflow PoC)
-Static Analysis of Insecure Functions in C
-Basics on the Mitigations to Buffer Overflows 
-Basics on Bypassing Buffer Overflow Mitigations 
-Basics on Detecting Buffer Overflows and Post exploit activity 
+Basics of C Socket programming <br /> 
+C Socket program code w/ Inline comments on how to write a Socket program in C <br />
+Basic fuzzer development in Python <br />
+Basic of reverse engineering pre-compiled Binaries found online with NSA GHIDRA <br />
+Basics of using GBD and EDB debuggers <br />
+Intro material on x86 Assembly and Memory <br />
+Crashing the Stack (Buffer Overflow PoC) <br />
+Static Analysis of Insecure Functions in C <br />
+Basics on the Mitigations to Buffer Overflows <br />
+Basics on Bypassing Buffer Overflow Mitigations <br />
+Basics on Detecting Buffer Overflows and Post exploit activity <br /> 
 
